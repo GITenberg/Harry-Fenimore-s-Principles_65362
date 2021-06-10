@@ -1,11 +1,16 @@
 _repo: Harry-Fenimore-s-Principles_65362
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65362-h/images/cover.jpg
 creator:
   author:
     agent_name: Hopkins, Isabel Thompson
     gutenberg_agent_id: '53302'
     url: http://www.gutenberg.org/2009/agents/53302
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65362#Harry-Fenimore-s-Principles
 gutenberg_issued: '2021-05-17'
 gutenberg_type: Text
 identifiers:
